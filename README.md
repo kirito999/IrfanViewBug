@@ -1,4 +1,7 @@
 # IrfanViewBug
+
+CVE-2024-31007  
+
 IrfanView4.66 32bit with latest Formats.dll
 
 ### POC
